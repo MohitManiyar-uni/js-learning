@@ -16,3 +16,8 @@ const myFunction =function(){
     console.log("Hello World");
 }
 console.log(typeof myObj);
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primtive), Heap (Non-Primitive)
+
