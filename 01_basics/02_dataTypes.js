@@ -1,4 +1,4 @@
-"use strict"; // treat all JS code as newer version
+"use strict"; // treat all JS code as newer version// generally not needed in newer ver of nodejs
 
 // alert(3 + 3) // we are using nodeJS not browser
 
@@ -9,8 +9,8 @@ let name = "hitesh"
 let age = 18
 let isLoggedIn = false
 
-// number => 2 to the power 53
-// bigint 
+// number => 2 to the power 53 is the limit
+// bigint // use if int is too small 
 // string => ""
 // boolean => true/false
 // null => standalone value
